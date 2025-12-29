@@ -1,6 +1,14 @@
 # mObywatel
 Kod opublikowany 29.12.2025
 
+## TODO Jakieś sensowne readme
+
+| Skrypt | Co robi |
+|--------|---------|
+| [mobywatel-downloader.user.js](mobywatel-downloader.user.js) | Ściąganie pojedynczych/wielu plików |
+| [organize_files.py](organize_files.py) | Umieszczony w tym samym katalogu co pliki ze skryptu powyżej tworzy drzewo katalogów |
+| [clean_line_numbers.py](clean_line_numbers.py) | Sprzątanie numerów linii z kodu |
+
 
 Ministerstwo Cyfryzacji opublikowało kod źródłowy mObywatela
 
@@ -34,5 +42,3 @@ Kod źródłowy aplikacji mObywatel został udostępniony do publicznego wglądu
 ---
 nie da sie kopiowac bez tego:
 https://webextension.org/listing/allow-right-click.html
-
-smallCardBackground.svg nie ładuje się
